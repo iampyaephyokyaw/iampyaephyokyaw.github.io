@@ -1,9 +1,7 @@
 ---
-
 title: Happiness is an overrated commodity
 feed: show
 date: 05-03-2025
-
 ---
 
 # Happiness is an overrated commodity
